@@ -4,7 +4,7 @@
 
 
 ##
-## analyze_dossier.py - analyze_dossier
+## backend.py - analyze_dossier
 ## copyright (c) 2009-2010 Koninklijke Bibliotheek - National library of the Netherlands.
 ##
 ## this program is free software: you can redistribute it and/or modify
