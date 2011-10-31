@@ -1,0 +1,7 @@
+Generic backend module. 
+
+
+Example for using different backend storage systems,
+implemented as a python decorator function.
+
+
